@@ -9,4 +9,9 @@ int main () {
     std::cout << number << std::endl;
     int gas_price = 384;
     std::cout << 600*6.5/100*gas_price << std::endl;
+    //empty variable
+    std::string user_name;
+    std::string user_address;
+    std::string phone_number;
+    std::cout << user_name << std::endl;
 }
