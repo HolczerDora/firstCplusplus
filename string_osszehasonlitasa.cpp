@@ -7,5 +7,6 @@ int main () {
     //declare to variable
     int number = 9;
     std::cout << number << std::endl;
-
+    int gas_price = 384;
+    std::cout << 600*6.5/100*gas_price << std::endl;
 }
