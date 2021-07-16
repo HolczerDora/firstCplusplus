@@ -5,9 +5,9 @@ int main () {
     //távolság, üzemanyagár, fogyasztás
     std::cout << 600*6.5/100 << std::endl;
     //declare to variable
-    int number = 9;
+    int number = 129;
     std::cout << number << std::endl;
-    int gas_price = 384;
+    int gas_price = 440;
     std::cout << 600*6.5/100*gas_price << std::endl;
     //empty variable
     std::string user_name;
