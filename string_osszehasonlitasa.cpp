@@ -23,4 +23,10 @@ int main () {
   
     int ultimate_answer =1890/90*2;
     std::cout << "The answer to life, \nthe universe, \nand everything: " << ultimate_answer << std::endl;
+
+    //tanulmanyi atlag szamitasa
+    int student_count=7;
+    int sum_of_grades=5+5+3+5+4+2+2;
+    int mean_of_grades=sum_of_grades/student_count;
+    std::cout << "The class mean of grades: " << mean_of_grades << std::endl; 
 }
