@@ -29,4 +29,7 @@ int main () {
     int sum_of_grades=5+5+3+5+4+2+2;
     int mean_of_grades=sum_of_grades/student_count;
     std::cout << "The class mean of grades: " << mean_of_grades << std::endl; 
+    //variable rename
+    int age=43;
+    std::cout <<"My age is : "<< age+5 <<std::endl;
 }
