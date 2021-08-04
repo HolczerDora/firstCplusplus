@@ -32,4 +32,7 @@ int main () {
     //variable rename
     int age=43;
     std::cout <<"My age is : "<< age+5 <<std::endl;
+    //constans variable with (Const Double) for exp.: PI=3,14 
+    const double kPI=3.14159265358979323846;
+    std::cout << "PI valeu is :" << kPI << std::endl;
 }
